@@ -1,0 +1,12 @@
+.entry-page {
+	background: #fff url('../img/entry-bg.jpg') top center no-repeat;
+	width: 100%;
+	background-size: cover;
+
+	#parental-error-list, #rules-error-list, #captcha-error-list {
+		font-size: 2rem;
+		color: red;
+		text-align: center;
+	}
+
+}
